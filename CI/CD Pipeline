@@ -1,0 +1,12 @@
+What are CI/CD Pipelines?
+
+Continuous Integration (CI) and Continuous Deployment/Delivery (CD) pipelines are a set of automated practices that allow development teams to deliver code changes more frequently and reliably. CI involves automatically building and testing code every time a change is pushed to the repository, while CD automates the deployment of the code to production or a staging environment.
+
+Importance for the Project:
+
+CI/CD pipelines are crucial for this project as they will automate the process of testing and deploying the application, reducing the risk of human error and increasing development velocity. This ensures that new features and bug fixes can be delivered to users quickly and efficiently.
+
+Tools:
+
+GitHub Actions: Will be used to create and manage the automated workflows for CI/CD.
+Docker: Will be used to containerize the application, ensuring a consistent environment across development, testing, and production.
