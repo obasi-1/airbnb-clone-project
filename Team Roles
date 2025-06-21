@@ -1,0 +1,22 @@
+Team Roles
+Backend Developer
+Responsibilities:
+
+API Development: Designing, building, and maintaining the server-side logic and RESTful APIs using Django to handle all client-side requests.
+
+Business Logic Implementation: Translating project features into functional and efficient code, ensuring the core application logic is sound and scalable.
+
+Database Integration: Working closely with the Database Administrator to integrate the database with the backend, ensuring seamless data flow and retrieval.
+
+Security Implementation: Implementing security best practices to protect the application from common vulnerabilities and ensure data integrity.
+
+Database Administrator
+Responsibilities:
+
+Database Design and Modeling: Designing the database schema, defining relationships between entities, and ensuring the database structure is optimized for performance and scalability.
+
+Database Management: Managing the MySQL database, including performance tuning, backups, and recovery plans to ensure data availability and reliability.
+
+Data Integrity and Security: Ensuring the accuracy and consistency of data, and implementing security measures to protect sensitive information within the database.
+
+Query Optimization: Writing and optimizing complex database queries to ensure fast and efficient data retrieval for the application.
