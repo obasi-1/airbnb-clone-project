@@ -1,3 +1,0 @@
-User Management: This feature handles all aspects of user accounts. It allows users to register, log in, and manage their profiles, which is fundamental for a personalized and secure user experience.
-Property Management: This allows property owners to list, update, and manage their properties. It includes functionalities for adding photos, descriptions, and setting availability, forming the core inventory of the platform.
-Booking System: This is the central feature that enables users to book properties. It includes searching for properties, checking availability, and making reservations, which is the primary business logic of the application.
