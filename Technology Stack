@@ -1,0 +1,5 @@
+Django: A high-level Python web framework that enables the rapid development of secure and maintainable websites. In this project, Django will be used to build the RESTful APIs that power the application's backend.
+MySQL: A popular open-source relational database management system. It will be used to store and manage all the data for the application, including user information, property listings, and bookings.
+GraphQL: A query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL will be integrated to provide a more efficient, powerful, and flexible alternative to traditional REST APIs for certain data-fetching operations.
+Docker: A platform for developing, shipping, and running applications in containers. Docker will be used to create a consistent and isolated environment for development, testing, and deployment.
+GitHub Actions: A CI/CD platform integrated into GitHub. It will be used to automate the build, test, and deployment pipelines for the project, ensuring a streamlined and efficient development workflow.
